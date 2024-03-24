@@ -148,6 +148,7 @@ void PrintString4(u8 *puts);
 
 //void COMx_write2buff(u8 UARTx, u8 dat);	//´®¿Ú·¢ËÍº¯Êý
 //void PrintString(u8 UARTx, u8 *puts);
+void	UART_config(void);
 
 #endif
 
